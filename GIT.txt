@@ -1,0 +1,5 @@
+git clone 
+git add -a // "-a" dodajemo sve nove dokumente u red za commit 
+git commit -m "ukratko što smo izmjenili" 
+git push 
+git pull
